@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/945
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44721#The-Pillars-of-the-House-Vol.-II--of-2-or-Under-Wode-Under-Rode
 gutenberg_issued: '2014-01-20'
 gutenberg_type: Text
 identifiers:
